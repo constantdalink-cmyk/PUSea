@@ -4,6 +4,17 @@
 PUSea 标志 · 512×512 PNG 透明底（与仓库头像共用一张）<br>
 <sub>素材就绪后删除本段，见文件顶部素材清单</sub></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v0.1.0-blue?style=flat-square" alt="Version" />
+  <img src="https://img.shields.io/badge/Platform-Mobile-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Protocol-OpenAI%20%7C%20Claude-8A2BE2?style=flat-square" alt="Protocols" />
+  <img src="https://img.shields.io/badge/Architecture-Dual%20Workspace-orange?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Privacy-100%25%20Local-success?style=flat-square" alt="Privacy" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/Author-Constant%20Darlink-181717?style=flat-square&logo=github&logoColor=white" alt="Author" />
+  <img src="https://img.shields.io/badge/Lab-ZKYL%20Creative%20Lab-grey?style=flat-square" alt="Lab" />
+</p>
+
 > **移动端首个软件侧完整 AI Agent 运行操作系统。**
 > 这是软件，非底层内核操作系统。
 
