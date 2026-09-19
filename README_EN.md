@@ -109,7 +109,7 @@ Everyone is welcome to use PUSea. If you encounter any bugs, contact me directly
 
 - Manual (Chinese / English) → [`MANUAL.md`](./MANUAL.md)
 - What This Project Defines (Chinese / English) → [`DEFINES.md`](./DEFINES.md)
-- License (Chinese / English) → [`LICENSE.md`](./LICENSE.md)
+- License (Chinese / English) → [`LICENSE.md`](./LICENSE)
 - Creation Philosophy & Thoughts (Chinese / English) → [`PHILOSOPHY.md`](./PHILOSOPHY.md)
 
 ---
