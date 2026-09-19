@@ -77,6 +77,22 @@ Benchmark targets: Earlier versions of OpenClaw, DeepSeek Harness functional lay
 5. Minimal footprint, performance optimized down to the differential level — *"Extremely small, yet extremely vast."*
 6. Near-obsessive swiftness.
 
+> If features that a complete software-side AI Agent operating system on mobile is supposed to have by default count as "advantages"... then sure:  
+> Persistence, etc. Nothing else. More accurately, I don't even know what else to list—it is baseline common sense; why state the obvious?
+>
+> **[By the way: Please distinguish this from open-source or proprietary AI agent platform concepts. The differences are:]**
+> 1. **First and foremost:** My sole objective has always been an external runtime operating system.
+> 2. **Beyond the browser:** It is obviously not confined to web environments. Similar to OpenClaw, it can reasonably and comprehensively control the entire mobile device.
+> 3. **Zero manual adaptation:** Command-level adaptation is unnecessary; the system can determine how to utilize and construct commands on its own.
+> 4. **An authoritative program:** Its architecture is clearly not a simple proxy relying on surface-level commands, but a dangerous yet fully legitimate authoritative program.
+> 5. **Guaranteed capabilities:**
+>    - **Universal app comprehension and operation:** Works across any application—especially games, complex canvases, custom UI components, and protected interfaces.
+>    - **Screen-off & lock-screen persistence:** Continues internal software-side tool operations uninterrupted after the screen turns off or locks.
+>    - **Non-interfering concurrency:** Operates concurrently on the device while you use the phone normally, without mutual interference.
+>    - **Resilient execution:** Aggressive background task killing, detached debugging daemons, or updates to other apps will not disrupt its execution.
+>
+> ⚠️ **A critical reminder regarding autonomous dangerous operations:** It may click the exact right button, yet fundamentally misunderstand the real-world impact of destructive actions such as "Delete" or "Factory Reset."
+
 <p align="center"><b>[Slot 4 · Live Demo]</b><br>
 Real-time execution GIF of a complete task · ≤5MB<br>
 <sub>Delete this section once assets are ready; see asset manifest at the top of the file</sub></p>
