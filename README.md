@@ -109,7 +109,7 @@ PUSea 是一套运行于移动设备之上、完整拥有 Skills 组装与自定
 
 - 说明书（中文 / 英文）→ [`MANUAL.md`](./MANUAL.md)
 - 本项目定义了什么（中文 / 英文）→ [`DEFINES.md`](./DEFINES.md)
-- 协议（中文 / 英文）→ [`LICENSE.md`](./LICENSE.md)
+- 协议（中文 / 英文）→ [`LICENSE.md`](./LICENSE)
 - 创造哲学与思想（中文 / 英文）→ [`PHILOSOPHY.md`](./PHILOSOPHY.md)
 
 ---
