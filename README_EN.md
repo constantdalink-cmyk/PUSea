@@ -48,9 +48,7 @@ Solely developed and open-sourced by **Constant Darlink**, lead of **ZKYL Creati
 
 PUSea is a complete, software-side AI Agent operating system running on mobile devices. It features full Skills assembly and custom Tools extensions, covers theoretically all reasonable mobile operations, supports **both OpenAI and Claude protocols**, adopts a Dual Workspace architecture, and runs in real time.
 
-<p align="center"><b>[Slot 2 · Main Interface]</b>　＋　<b>[Slot 3 · Dual Workspace]</b><br>
-Two vertical mobile screenshots side-by-side: Main interface on the left, Dual Workspace on the right<br>
-<sub>Delete this section once assets are ready; see asset manifest at the top of the file</sub></p>
+<p align="center"><b></b><img width="200" alt="pixel-animation-16x16-white89" src="https://github.com/user-attachments/assets/84cc37d0-1cc5-42fa-acf5-b1c84373c856" />
 
 Fills the vacant spot of external AGENT operating systems on mobile (a complete software-side AI Agent operating system on mobile devices).
 
