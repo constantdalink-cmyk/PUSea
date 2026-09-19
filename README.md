@@ -29,7 +29,6 @@ PUSea 标志 · 512×512 PNG 透明底（与仓库头像共用一张）<br>
 <a href="DEFINES.md">本项目定义了什么</a> ·
 <a href="LICENSE.md">协议</a> ·
 <a href="PHILOSOPHY.md">创造哲学与思想</a> ·
-<a href="POSTING-GUIDELINES.md">社区守则</a> ·
 <a href="#已知缺点直面不藏">已知缺点</a> ·
 <a href="#优点">优点</a> ·
 <a href="#反馈">反馈</a>
