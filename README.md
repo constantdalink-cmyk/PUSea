@@ -3,8 +3,6 @@
   <a href="./README_EN.md"><img src="https://img.shields.io/badge/Language-English-lightgrey?style=flat-square" alt="English" /></a>
 </p>
 
-**
-
 # PUSea
 
 <p align="center"><b>【图位 1 · LOGO】</b><br>
