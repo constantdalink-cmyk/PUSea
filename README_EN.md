@@ -5,9 +5,18 @@
 
 # PUSea
 
-<p align="center"><b>[Slot 1 · LOGO]</b><br>
-PUSea Logo · 512×512 Transparent PNG (Shared with repository avatar)<br>
-<sub>Delete this section once assets are ready; see asset manifest at the top of the file</sub></p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="200" alt="pixel-animation-white-bg (1)" src="https://github.com/user-attachments/assets/3d033803-bfc8-4548-8e94-801abd6b0c0c" />
+    </td>
+    <td valign="middle" style="padding-left: 24px;">
+      <b>PUSea</b><br>
+      By ZKYL 1<br>
+      ZKYL Creative Lab
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Preview-yellow?style=flat-square" alt="Preview" />
