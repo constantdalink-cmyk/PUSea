@@ -100,9 +100,21 @@ Benchmark targets: Earlier versions of OpenClaw, DeepSeek Harness functional lay
 >
 > ⚠️ **A critical reminder regarding autonomous dangerous operations:** It may click the exact right button, yet fundamentally misunderstand the real-world impact of destructive actions such as "Delete" or "Factory Reset."
 
-<p align="center"><b>[Slot 4 · Live Demo]</b><br>
-Real-time execution GIF of a complete task · ≤5MB<br>
-<sub>Delete this section once assets are ready; see asset manifest at the top of the file</sub></p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+      <img width="220" alt="bc4198c6093c370150bc73ee596bf444" src="https://github.com/user-attachments/assets/440afaaf-bb63-4dc0-8ebb-f6148ed526a5" />
+      </td>
+      <td align="center">
+         <img width="220" alt="2ad2b1dc20c8d7d61fa5d966f030bf56" src="https://github.com/user-attachments/assets/67b5c5e5-c9af-4048-b9d3-bcb6803d7862" />
+      </td>
+      <td align="center">
+        <img width="220" alt="b8bdc70207f7b0d66846d8ac139d66d2" src="https://github.com/user-attachments/assets/79ddff95-2139-4669-b375-4ef347306446" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Releases
 
