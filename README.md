@@ -5,9 +5,18 @@
 
 # PUSea
 
-<p align="center"><b>【图位 1 · LOGO】</b><br>
-PUSea 标志 · 512×512 PNG 透明底（与仓库头像共用一张）<br>
-<sub>素材就绪后删除本段，见文件顶部素材清单</sub></p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="200" alt="pixel-animation-white-bg (1)" src="https://github.com/user-attachments/assets/3d033803-bfc8-4548-8e94-801abd6b0c0c" />
+    </td>
+    <td valign="middle" style="padding-left: 24px;">
+      <b>PUSea</b><br>
+      By ZKYL 1<br>
+      ZKYL Creative Lab
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Preview-yellow?style=flat-square" alt="Preview" />
@@ -39,9 +48,7 @@ PUSea 标志 · 512×512 PNG 透明底（与仓库头像共用一张）<br>
 
 PUSea 是一套运行于移动设备之上、完整拥有 Skills 组装与自定义 Tools 扩展、覆盖手机理论上全部合理操作、兼容 **OpenAI / Claude 双协议**、采用双工作区架构、实时化运行的软件侧完整 AI Agent 运行操作系统。
 
-<p align="center"><b>【图位 2 · 主界面】</b>　＋　<b>【图位 3 · 双工作区】</b><br>
-两张手机竖屏截图并排：左为主界面，右为双工作区<br>
-<sub>素材就绪后删除本段，见文件顶部素材清单</sub></p>
+<p align="center"><b></b><img width="200" alt="pixel-animation-16x16-white89" src="https://github.com/user-attachments/assets/84cc37d0-1cc5-42fa-acf5-b1c84373c856" />
 
 补全了移动端外部 AGENT 运行操作系统的空位（移动端软件侧完整 AI Agent 运行操作系统）。
 
@@ -59,7 +66,7 @@ PUSea 是一套运行于移动设备之上、完整拥有 Skills 组装与自定
    原因详情请看：
 4. 上下文修剪减负优化不全，Token 消耗大。
    原因详情请看：
-5. 双端共同协作不是真实的：一人 1 AI 各一个工作区，单挑（这是目前第四个拥有此功能的 Agent 操作端）。
+5. 双端共同协作不是真实的：一人 一 AI 各一个工作区，单挑（这是目前第四个拥有此功能的 Agent 操作端）。
    原因详情请看：
 6. 功能界面有空余。
    原因详情请看：
@@ -93,9 +100,21 @@ PUSea 是一套运行于移动设备之上、完整拥有 Skills 组装与自定
 >
 > ⚠️ **但记住自动判断所有危险操作的后果：** 它可能点对按钮，却误解“删除”“恢复出厂”等操作的实际影响。
 
-<p align="center"><b>【图位 4 · 实机演示】</b><br>
-一次完整任务的实时运行 GIF · ≤5MB<br>
-<sub>素材就绪后删除本段，见文件顶部素材清单</sub></p>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="230" alt="0786cee694f810568c824fcde4bc060f" src="https://github.com/user-attachments/assets/ef3de4e0-5a2e-4346-894f-fe58ea836a7b" />
+      </td>
+      <td>
+        <img width="230" alt="238dc07a59de19fb69c497658106bdb3" src="https://github.com/user-attachments/assets/a1d708c0-16bc-4fb4-a22c-83938b27dce6" />
+      </td>
+      <td>
+        <img width="230" alt="b8bdc70207f7b0d66846d8ac139d66d2" src="https://github.com/user-attachments/assets/c0882dd1-8198-4e52-bbaf-6da412e19d33" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## 版本
 
