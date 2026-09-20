@@ -59,19 +59,19 @@ Benchmark targets: Earlier versions of OpenClaw, DeepSeek Harness functional lay
 ## Known Limitations (Face Them Directly, Hide Nothing)
 
 1. Popular multi-agent patterns? None.
-   Details & Reasons:
+   Details & Reasons:https://pusea.constantdalink.workers.dev/
 2. No inner-loop mechanism and targeted regulation — a single natural language input will likely not generate an entire completed product in one shot.
-   Details & Reasons:
+   Details & Reasons:https://pusea.constantdalink.workers.dev/
 3. The architecture is far from aesthetic, logic is scattered, and difficult to comprehend.
-   Details & Reasons:
+   Details & Reasons:https://pusea.constantdalink.workers.dev/
 4. Context trimming and load shedding optimizations are incomplete; high Token consumption.
-   Details & Reasons:
+   Details & Reasons:https://pusea.constantdalink.workers.dev/
 5. Dual-end collaboration is not true co-presence: 1 human and 1 AI, one workspace each, head-to-head (this is currently the 4th Agent client to feature this).
-   Details & Reasons:
+   Details & Reasons:https://pusea.constantdalink.workers.dev/
 6. Unoccupied space in the feature UI.
-   Details & Reasons:
+   Details & Reasons:https://pusea.constantdalink.workers.dev/
 7. Most MCP Tools / CLI shortcut Tools are not tailored for mobile interfaces.
-   Details & Reasons:
+   Details & Reasons:https://pusea.constantdalink.workers.dev/
 
 > Above are all the current limitations; next come the advantages.
 
