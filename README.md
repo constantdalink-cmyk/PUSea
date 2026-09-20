@@ -138,3 +138,4 @@ PUSea 是一套运行于移动设备之上、完整拥有 Skills 组装与自定
 > 我不能保证它能和 DeepSeek Harness 一个强度，因为它不只是因为追赶而诞生的。
 
 【一句不相干的话】：难道 Agent 运行时系统的真实进步真的结束了吗？我认为，不然，至少，现在不然。
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JvhnTw2qB)
