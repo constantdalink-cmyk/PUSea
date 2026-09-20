@@ -59,19 +59,19 @@ PUSea 是一套运行于移动设备之上、完整拥有 Skills 组装与自定
 ## 已知缺点（直面，不藏）
 
 1. 现在流行的多 Agent 模式，没有。
-   原因详情请看：
+   原因详情请看：https://pusea.constantdalink.workers.dev/
 2. 无内循环机制和相关针对性治理——单次自然语言极可能无法完整制作一整个成品。
-   原因详情请看：
+   原因详情请看：https://pusea.constantdalink.workers.dev/
 3. 架构极不美观，逻辑分散，难以理解。
-   原因详情请看：
+   原因详情请看：https://pusea.constantdalink.workers.dev/
 4. 上下文修剪减负优化不全，Token 消耗大。
-   原因详情请看：
+   原因详情请看：https://pusea.constantdalink.workers.dev/
 5. 双端共同协作不是真实的：一人 一 AI 各一个工作区，单挑（这是目前第四个拥有此功能的 Agent 操作端）。
-   原因详情请看：
+   原因详情请看：https://pusea.constantdalink.workers.dev/
 6. 功能界面有空余。
-   原因详情请看：
+   原因详情请看：https://pusea.constantdalink.workers.dev/
 7. MCP Tools 的 CLI 快捷 Tools 大多不适配移动界面。
-   原因详情请看：
+   原因详情请看：https://pusea.constantdalink.workers.dev/
 
 > 以上便是现在的所有缺点，接下来才是优点。
 
