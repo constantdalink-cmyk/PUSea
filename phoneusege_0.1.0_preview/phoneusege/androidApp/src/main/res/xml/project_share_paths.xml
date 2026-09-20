@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    FileProvider 路径配置：把 cacheDir 暴露给分享通道（长按竖块打包 zip 用，见 App16）。
+    放置位置：androidApp/src/main/res/xml/project_share_paths.xml（res/xml 目录不存在就新建）。
+-->
+<paths>
+    <cache-path
+        name="cache"
+        path="." />
+</paths>

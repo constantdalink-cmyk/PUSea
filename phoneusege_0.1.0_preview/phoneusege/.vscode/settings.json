@@ -1,0 +1,15 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    // 1. 关闭 Kotlin 语言服务器的报错诊断（让它住嘴）
+    "kotlin.languageServer.enabled": false,
+    "Kotlin.languageServerEnabled": false,
+
+    // 2. 隐藏编辑器里所有语言的红色波浪线（纯视觉清净，保留高亮和自动补全）
+    "editor.disableColorDecorations": true,
+    "problems.decorations.enabled": false,
+
+    // 3. 可选：如果你连底部的"问题"面板都不想看到 Kotlin 报错，可以过滤掉它
+    "problems.exclude": {
+        "**/*.kt": true
+    }
+}

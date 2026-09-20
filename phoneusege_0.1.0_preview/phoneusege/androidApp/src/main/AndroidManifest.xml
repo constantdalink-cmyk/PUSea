@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    放置位置：androidApp/src/main/AndroidManifest.xml（整份替换）。
+    - 你原有内容：网络权限 / MainActivity / FileProvider 分享通道 —— 原样未动。
+    - [KEEPALIVE] 标记：后台常驻新增（6 条权限 + KeepAliveService + BootReceiver），
+      已按你的要求从 shared 清单整合进来；纯增量，删掉这些标记块即可还原。
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 网络基础权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- ===== [KEEPALIVE] 后台常驻所需权限 ===== -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+    <!-- ====================================== -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        <activity
+            android:exported="true"
+            android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 分享通道：把 cacheDir 里的 zip 包成 content:// URI 交给系统分享面板。
+             authorities 必须与代码里的 "${packageName}.fileprovider" 一致（App16）。 -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/project_share_paths" />
+        </provider>
+
+        <!-- ===== [KEEPALIVE] 常驻前台服务：执行引擎的宿主 ===== -->
+        <service
+            android:name="org.example.project.KeepAliveService"
+            android:foregroundServiceType="dataSync"
+            android:exported="false" />
+
+        <!-- ===== [KEEPALIVE] 开机 / 覆盖安装后自动拉起服务 ===== -->
+        <receiver
+            android:name="org.example.project.BootReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+        <!-- ====================================== -->
+    </application>
+
+</manifest>
