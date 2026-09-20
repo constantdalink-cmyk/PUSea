@@ -138,3 +138,4 @@ Everyone is welcome to use PUSea. If you encounter any bugs, contact me directly
 > I cannot guarantee it matches the strength of DeepSeek Harness, because it was not created merely to chase after anything.
 
 [An unrelated note]: Has real progress in Agent runtime systems truly come to an end? I don't think so. At least, not right now.
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JvhnTw2qB)
