@@ -46,7 +46,7 @@
 
 由 **ZKYL Creative Lab**、**ZKYL 1** 的主导人 **Constant Darlink** 单人制作并开源。
 
-PUSea 是一套运行于移动设备之上、完整拥有 Skills 组装与自定义 Tools 扩展、覆盖手机理论上全部合理操作、兼容 **OpenAI / Claude 双协议**、采用双工作区架构、实时化运行的软件侧完整 AI Agent 运行操作系统。
+PUSea 是世界上第一套运行于移动设备之上、完整拥有 Skills 组装与自定义 Tools 扩展、覆盖手机理论上全部合理操作、兼容 **OpenAI / Claude 双协议**、采用双工作区架构、实时化运行的软件侧完整 AI Agent 运行操作系统。
 
 <p align="center"><b></b><img width="200" alt="pixel-animation-16x16-08-white" src="https://github.com/user-attachments/assets/d999127f-fe41-429f-9e97-4dbec5baf30f" />
 
