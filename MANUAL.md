@@ -14,9 +14,6 @@ UI 是用来探索的。
 To use this, all you need is: **speak, tap, swipe, press**.
 
 The UI is meant to be explored.
-
-> 🖼 **【图位 · 四手势示意 / Four gestures】** — 说 / 点 / 划 / 按 的一张示意图或四张小截图（可选，素材就绪后替换本段）
-
 ---
 
 ## 二、至于代码原理 / As for how the code works
