@@ -46,7 +46,7 @@
 
 Solely developed and open-sourced by **Constant Darlink**, lead of **ZKYL Creative Lab** and **ZKYL 1**.
 
-PUSea is a complete, software-side AI Agent operating system running on mobile devices. It features full Skills assembly and custom Tools extensions, covers theoretically all reasonable mobile operations, supports **both OpenAI and Claude protocols**, adopts a Dual Workspace architecture, and runs in real time.
+PUSea is this world first complete, software-side AI Agent operating system running on mobile devices. It features full Skills assembly and custom Tools extensions, covers theoretically all reasonable mobile operations, supports **both OpenAI and Claude protocols**, adopts a Dual Workspace architecture, and runs in real time.
 
 <p align="center"><b></b><img width="200" alt="pixel-animation-16x16-08-white" src="https://github.com/user-attachments/assets/d999127f-fe41-429f-9e97-4dbec5baf30f" />
 
